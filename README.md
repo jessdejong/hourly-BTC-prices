@@ -7,4 +7,4 @@ Tweeting hourly bitcoin prices using the twitter API and a raspberry pi
         pip3 install requests
         pip3 install python-dateutil
 
-Thanks to bitcoin-price-api for easy acces to bitcoin prices!   https://github.com/dursk/bitcoin-price-api
+Thanks to bitcoin-price-api for easy access to bitcoin prices!   https://github.com/dursk/bitcoin-price-api
