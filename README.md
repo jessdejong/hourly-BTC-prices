@@ -1,4 +1,4 @@
-Bitcoin Price Twitter Bot
+Bitcoin Price Twitter Bot [@HourlyBTCprices](https://twitter.com/HourlyBTCprices)
 ----------------------------------------------------------------------
 Tweeting hourly bitcoin prices using the twitter API and a raspberry pi
 
