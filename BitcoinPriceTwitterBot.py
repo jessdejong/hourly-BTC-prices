@@ -17,7 +17,7 @@ twitter = Twython(
 
 now = datetime.datetime.now()
 
-message = now.strftime("%Y-%m-%d %I:%M") + " Bitcoin Price: " + str(round(coindesk.CoinDesk.get_current_price(), 2)) + " USD"
+message = now.strftime("%Y-%m-%d %I:%M") + "UTC Bitcoin Price: " + str(round(coindesk.CoinDesk.get_current_price(), 2)) + " USD"
 
 twitter.update_status(status=message)
 print("Tweeted: {}".format(message))
